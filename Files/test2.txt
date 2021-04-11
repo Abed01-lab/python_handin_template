@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+functions.py
+test.txt
+utils.py
+__pycache__
